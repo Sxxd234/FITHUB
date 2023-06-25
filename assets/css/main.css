@@ -633,6 +633,12 @@ section {
 /*--------------------------------------------------------------
 # About Us Section
 --------------------------------------------------------------*/
+.about .content{
+  background-image: url(../img/pexels-pikx-by-panther-1547248.jpg);
+  /* background-image: url(../img/lorenzo-hamers-jvIaut-V9a4-unsplash.jpg); */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .about .content h3 {
   font-weight: 700;
   font-size: 32px;
